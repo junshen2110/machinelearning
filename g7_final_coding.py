@@ -936,9 +936,9 @@ print(kmeans_cluster_analysis)
 # STREAMLIT
 """
 
-!pip install streamlit
+# !pip install streamlit
 import streamlit as st
 
 st.title('Leveraging Unsupervised Clustering of Wind Patterns to Enhance Urban Sustainability in Smart Cities')
 
-streamlit run
+# streamlit run
